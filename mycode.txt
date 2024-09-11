@@ -1,0 +1,4 @@
+its my first code
+print("i am vinita")
+print("i am currently learning devops")
+
