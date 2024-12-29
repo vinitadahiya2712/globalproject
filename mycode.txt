@@ -1,4 +1,1 @@
-its my first code
-print("i am vinita")
-print("i am currently learning devops")
-
+print("yhe dusre editor se try kru thi")
